@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="icon" 
+      type="image/png" 
+      href="http://www.studentorg.vcu.edu/lugvcu/favicon.png">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The GNU &amp; Linux User Group</title>
+<!-- TemplateEndEditable -->
+<meta name="description" content="The VCU Campus Linux User Group...bringing Linux to the masses.">
+<meta name="keywords" content="Linux, GNU, Operating system, User Group, Q & A for Linux operating systems, linux, Linux, Linux.com, Linux Online, Torvalds, Linus, linux downloads, linux tutorials, linux training, linux support, operating system, UNIX, web, www, software, hardware, support, help, information, resources, drivers, manual, documentation project, LDP, FAQ, miniHOWTO, howto, linux howtos, documentation, Linux Homepage, Linux Home Page, Linus Torvalds, Redhat, Ubuntu, Slackware, Yggdrasil, Debian, LinuxPro, OpenLinux, FTP, download, projects, application, usergroup, user group, mailing list, kernel">
+<meta name="subject" content="Linux, GNU, Operating system, User Group, Q & A for Linux operating systems, linux, Linux, Linux.com, Linux Online, Torvalds, Linus, linux downloads, linux tutorials, linux training, linux support, operating system, UNIX, web, www, software, hardware, support, help, information, resources, drivers, manual, documentation project, LDP, FAQ, miniHOWTO, howto, linux howtos, documentation, Linux Homepage, Linux Home Page, Linus Torvalds, Redhat, Ubuntu, Slackware, Yggdrasil, Debian, LinuxPro, OpenLinux, FTP, download, projects, application, usergroup, user group, mailing list, kernel">
+<meta name="category" content="Linux, GNU, Operating system, User Group, Q & A for Linux operating systems, linux, Linux, Linux.com, Linux Online, Torvalds, Linus, linux downloads, linux tutorials, linux training, linux support, operating system, UNIX, web, www, software, hardware, support, help, information, resources, drivers, manual, documentation project, LDP, FAQ, miniHOWTO, howto, linux howtos, documentation, Linux Homepage, Linux Home Page, Linus Torvalds, Redhat, Ubuntu, Slackware, Yggdrasil, Debian, LinuxPro, OpenLinux, FTP, download, projects, application, usergroup, user group, mailing list, kernel">
+<meta name="geography" content="Virginia Commonwealthe University, Richmond, VA">
+<meta content="text/html; charset=iso-8859-1" http-equiv=content-type>
+<meta http-equiv="expires" content="never">
+<meta http-equiv="content-language" content="english">
+<meta http-equiv="vw96.object type" content="index">
+<meta name="resource-type" content="document">
+<meta http-equiv="reply-to" content="support@bluecreektechnology.com">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="generator" content="http://www.bluecreektechnology.com">
+<meta name="copyright" content="Blue Creek Technology, Inc">
+<meta name="author" content="Blue Creek Technology">
+<meta name="mssmarttagspreventparsing" content="true">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow"> 
+<meta name="revisit-after" content="1 day">
+
+<style type="text/css" media="all">
+<!--
+@import url("../CSSSculptor/1ColumnFixedCenteredHeaderandFooter_CaboSunset_css/screen.css");
+-->
+</style>
+<style type="text/css" media="print">
+<!--
+@import url("../CSSSculptor/1ColumnFixedCenteredHeaderandFooter_CaboSunset_css/print.css");
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style2 {color: #000000}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../LGimagesRO/Home.jpg','../LGimagesRO/Newbies.jpg','../LGimagesRO/Events.jpg','../LGimagesRO/Downloads.jpg','../LGimagesRO/Members.jpg','../LGimagesRO/Chat.jpg','../LGimagesRO/Contact.jpg')">
+
+<div id="outerWrapper">
+  <div id="header">Header</div>
+  <div id="topNavigation"><a href="http://www.studentorg.vcu.edu/lugvcu/"><img src="../LGimages/Home.jpg" alt="Home of the GNU / Linux User Group at VCU" width="144" height="129" border="0" id="Home" onmouseover="MM_swapImage('Home','','../LGimagesRO/Home.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../newbie.html"><img src="../LGimages/Newbies.jpg" alt="New to Linux?  This is where you want to go." width="142" height="129" border="0" id="Newbies" onmouseover="MM_swapImage('Newbies','','../LGimagesRO/Newbies.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../events.html"><img src="../LGimages/Events.jpg" alt="Events upcoming for the Linux Group" width="122" height="129" border="0" id="Events" onmouseover="MM_swapImage('Events','','../LGimagesRO/Events.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../downloads.html"><img src="../LGimages/Downloads.jpg" alt="Ready to try Linux?  Download your version here." width="145" height="129" border="0" id="Downloads" onmouseover="MM_swapImage('Downloads','','../LGimagesRO/Downloads.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../members.html"><img src="../LGimages/Members.jpg" alt="Members information, Officers, Meeting notes and more" width="137" height="129" border="0" id="Members" onmouseover="MM_swapImage('Members','','../LGimagesRO/Members.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../chat.html"><img src="../LGimages/Chat.jpg" alt="Want to Chat?  We do too!" width="133" height="129" border="0" id="Chat" onmouseover="MM_swapImage('Chat','','../LGimagesRO/Chat.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="../contact.html"><img src="../LGimages/Contact.jpg" alt="Contact us with all of your questions." width="137" height="129" border="0" id="Contact" onmouseover="MM_swapImage('Contact','','../LGimagesRO/Contact.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  <div id="contentWrapper"><!-- TemplateBeginEditable name="Content" -->
+    <div id="content">
+      <div id="text"><h1>Welcome to the GNU &amp; Linux User Group of VCU</h1>
+      <hr />
+      <p> We are a student group at <a href="http://www.vcu.edu">VCU</a>. We are dedicated to promoting GNU/Linux, Free Software and open source applications and showing how students and the VCU community can benefit from their use. </p>
+      <h1>Welcome New Students</h1>
+      <hr />
+      <p> The GNU+Linux Group of VCU welcome new students. We have many   events/activities in store for this year, which we are very excited   about. If you wish to be updated on our activities then we encourage you   to sign up for our mailing list. In case you don't get the message,   then you could check out our <a href="http://www.studentorg.vcu.edu/lugvcu/events.html">event calendar </a>here on the site. </p>
+      <p> As always, we welcome members from <strong>all</strong> of the VCU community, including faculty and staff. </p>
+      <h1>What is GNU/Linux?</h1>
+      <hr />
+      <p> The operating system GNU/Linux is freely available from this group, as well as from many sites on the Internet. It is a fully developed, user-friendly operating system at this point, much like Mac OSX and Windows. There are a few major differences however. First, there is a lot of freely available software for GNU/Linux that can be installed quickly and easily. It is almost all available for free. GNU/Linux is also community maintained, so critical bugs and security issues are usually handled very quickly. There are almost no viruses for GNU/Linux, and most people do not use any sort of virus protection software, although it is available. </p>
+      <h1>Contact Us</h1>
+      <hr />
+      <p> Please use the form on our <a href="http://www.studentorg.vcu.edu/lugvcu/contact.html">Contact</a> page to contact the officers. Please contact the <a href="http://www.studentorg.vcu.edu/lugvcu/webmaster.html">webmaster</a> for any website related comments. </p>
+    </div></div>
+  <!-- TemplateEndEditable --></div>
+  <div id="footer"> Copyright &copy;
+    <script type="text/javascript">
+  if (typeof(getCopyrightDate)=='function') document.write (getCopyrightDate(2009, null, '-')); else document.write((new Date()).getFullYear());
+    </script>
+VCU Linux &amp; GNU User Group. All rights reserved. | <a href="../terms.html" class="bottomMenu">Terms and Conditions</a></div>
+</div>
+
+</body>
+</html>
